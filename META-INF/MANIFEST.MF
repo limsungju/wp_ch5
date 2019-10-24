@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: wp_ch5
+Bundle-SymbolicName: wp_ch5
+Bundle-Version: 1.0.0.qualifier
